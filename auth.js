@@ -4,7 +4,7 @@ const loginBtn = document.getElementById('login-btn');
 const registerBtn = document.getElementById('register-btn');
 
 let db;
-const DB_NAME = 'ListITSharedV1_DB';
+const DB_NAME = 'ListIt';
 const DB_VERSION = 1; 
 const USERS_STORE = 'users';
 const PAGES_STORE = 'pages'; 
